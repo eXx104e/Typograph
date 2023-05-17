@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Typograph", "TypografHW\Typograph.csproj", "{05738E1A-F5DC-47A0-9B18-EE5933CD4480}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTestTypograph", "UnitTestProject\UnitTestTypograph.csproj", "{4C4CC5D9-EF71-429F-A59D-A2959E45D106}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{05738E1A-F5DC-47A0-9B18-EE5933CD4480}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{05738E1A-F5DC-47A0-9B18-EE5933CD4480}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{05738E1A-F5DC-47A0-9B18-EE5933CD4480}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{05738E1A-F5DC-47A0-9B18-EE5933CD4480}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4C4CC5D9-EF71-429F-A59D-A2959E45D106}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4C4CC5D9-EF71-429F-A59D-A2959E45D106}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4C4CC5D9-EF71-429F-A59D-A2959E45D106}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4C4CC5D9-EF71-429F-A59D-A2959E45D106}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {86D91200-C8F0-4E2C-8E79-C9B471B0C1EC}
+	EndGlobalSection
+EndGlobal
